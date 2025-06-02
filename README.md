@@ -39,7 +39,7 @@ Untuk menjalakan model machine learning yang telah dibuat cukup dengan menjalank
 streamlit run app.py
 ```
 atau bisa akses melalui link berikut 
-Link : 
+Link : https://proyek-akhir-ds-jevcscoh75jnrps5uvjugd.streamlit.app/
 ## Conclusion
 Berdasarkan dashboard yang telah dibuat, dapat disimpulkan bahwa:
 1. Jumlah mahasiswa yang dropout mendominasi sebanyak 32.1% dengan jumlah sebanyak 1.421 mahasiswa
